@@ -15,4 +15,5 @@ body{
     float: none;
     margin: 0 1.5%;
     width: 45%;
+    display-inside: ruby;
 }
