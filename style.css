@@ -11,3 +11,9 @@ body{
     margin: 0 1.5%;
     width: 45%;
 }
+.form2{
+    float: none;
+    margin: 0 1.5%;
+    width: 45%;
+    display-inside: ruby;
+}
